@@ -1,0 +1,12 @@
+name: FinReporter
+title: FinReporter
+username:
+account: ygafinreporter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 945625
+bundleId: 2169484
+url: https://ygastatisticapps.shinyapps.io/FinReporter/
+when: 1561132334.78406
+asMultiple: FALSE
+asStatic: FALSE

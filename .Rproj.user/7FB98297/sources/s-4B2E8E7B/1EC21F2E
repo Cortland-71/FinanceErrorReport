@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558629224161.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1EC21F2E",
+    "lastKnownWriteTime" : 1560969759,
+    "last_content_update" : 1560969759999,
+    "path" : "C:/Users/carrilloc.YGA/Desktop/DataAnalysis 2/FinanceBuild2/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "78,6",
+        "scrollLine" : "72",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
